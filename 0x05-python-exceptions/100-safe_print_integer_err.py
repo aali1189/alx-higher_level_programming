@@ -1,10 +1,5 @@
 #!/usr/bin/python3
-# 100-safe_print_integer_err.py
-# Brennan D Baraban <375@holbertonschool.com>
-
 import sys
-
-
 def safe_print_integer_err(value):
     """Prints an integer with "{:d}".format().
 
