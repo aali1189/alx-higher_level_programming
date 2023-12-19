@@ -1,9 +1,6 @@
 #!/usr/bin/python3
-# 101-safe_function.py
-# Brennan D Baraban <375@holbertonschool.com>
 
 import sys
-
 
 def safe_function(fct, *args):
     """Executes a function safely.
